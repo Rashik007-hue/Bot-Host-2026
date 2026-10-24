@@ -62,7 +62,7 @@ logger = logging.getLogger(__name__)
 logging.getLogger("telebot").setLevel(logging.CRITICAL)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 
-BOT_TOKEN = "7646276505:AAHjKviyjwg2NBos609fM4tFBlpCpcmjhVw"
+BOT_TOKEN = "8510644442:AAE9RGzai71KLiyxCugTZFTDH_kHkPe443A"
 ADMIN_ID = 6321618547 # ⚠️ Eikhane apnar Telegram User ID diben
 
 # Load thresholds
